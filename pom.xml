@@ -80,7 +80,7 @@
       <roles>
         <role>Committer</role>
       </roles>
-      <timezone>Asia/Kolkata</timezone>
+      <timezone>America/New_York</timezone>
     </developer>
 
     <developer>
